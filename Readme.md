@@ -12,6 +12,7 @@ The application supports two modes:
 
 - **Server Mode (SM)** — listens for client connections and logs keystrokes. 📡
 - **Create Payload Mode (CP)** — generates a standalone payload (Python script → executable) that connects back to the server. 💾
+- **Log Compiler (LC)** — converts raw keystroke log files into readable, formatted text with special key handling. 🔄
 
 ---
 
